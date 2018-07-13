@@ -1,5 +1,5 @@
 // ImageProcessing_beginner.cpp: 콘솔 응용 프로그램의 진입점을 정의합니다.
-//
+// 본 소스파일은 cat.dat파일인 이미지 파일을 상하 반전을 적용하여 icat.dat으로 출력하는 소스입니다.
 
 #include "stdafx.h"
 #include <stdio.h>
